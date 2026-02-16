@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/beee747d33cda9aa.css","style"]
+:HL["/lareweb-demo/_next/static/chunks/beee747d33cda9aa.css","style"]
 :HL["https://fonts.googleapis.com/css?family=Lexend","style"]
 :HL["https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Electrolize&display=swap","style"]
-0:{"buildId":"gqtzNa3F3a1HC7tyTaY2v","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"pGZtM0oJvjJxyNNmIGmIm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
