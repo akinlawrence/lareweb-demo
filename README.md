@@ -15,5 +15,5 @@ Currently there isn't any upcoming plans but it will optimized more on the mobil
 ## A Quick look of the front page
 <img width="50%" src="example/esimerkki-kuva1.png" alt="näyttö 1" title="Kuva 1">
 
-## The Exam it self
+## Portfolio side of the page
 <img width="50%" src="example/esimerkki-kuva2.png" alt="näyttö 2" title="Kuva 2">
